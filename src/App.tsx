@@ -24,8 +24,6 @@ const App = () => {
         setWeightField(0);
     }
 
-
-
     return(
         <div className={styles.main}>
             <header>
